@@ -237,16 +237,3 @@ hr {
     text-align: center;
     margin-left: 20px;
 }
-
-/* Media quiries */
-
-/* mobile device */
-
-@media only screen and (max-width:680px) {
-    .header {
-
-        display: grid;
-
-    }
-
-}
